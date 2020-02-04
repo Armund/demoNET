@@ -1,3 +1,7 @@
+Internship project. Corporate system as a web-service. 
+Java + Spring + Javascript
+
+
 ## Mappings
 * / - main page
 * /admin - represents admin features
